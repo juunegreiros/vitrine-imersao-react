@@ -44,4 +44,16 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Wanderson A. Timóteo',
+    foto: 'https://avatars3.githubusercontent.com/u/40473246?s=460&u=69195189ff1a808093dda3129dfd55eff9ff2599&v=4',
+    nomeDoProjeto: 'FlixPrime',
+    url: 'https://flixprime.ga/',
+    tags: [
+      'front end',
+      'back end',
+      'filmes',
+      'séries',
+    ],
+  },
 ];
